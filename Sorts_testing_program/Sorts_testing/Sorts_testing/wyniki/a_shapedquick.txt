@@ -1,0 +1,2 @@
+Liczba elementow	czas
+10	0

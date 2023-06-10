@@ -1,0 +1,8 @@
+﻿  Arrays.cpp
+D:\Politechnika\AiS\Sorts_testing\Sorts_testing\Arrays.cpp(5,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Politechnika\AiS\Sorts_testing\Sorts_testing\Arrays.cpp(14,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Politechnika\AiS\Sorts_testing\Sorts_testing\Arrays.cpp(24,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Politechnika\AiS\Sorts_testing\Sorts_testing\Arrays.cpp(34,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Politechnika\AiS\Sorts_testing\Sorts_testing\Arrays.cpp(44,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Politechnika\AiS\Sorts_testing\Sorts_testing\Arrays.cpp(65,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sorts_testing.vcxproj -> D:\Politechnika\AiS\Sorts_testing\Debug\Sorts_testing.exe
